@@ -1,0 +1,1 @@
+ssh -i D:/编程/项目班/onlineOrder-back/onlineorderkey.pem ubuntu@54.205.102.26
